@@ -9,9 +9,9 @@ API; key gerektirmediği için CoinGecko'dan çekilmektedir.
 Node üzerinden;
 NextJS paketi --> npm install -g create-next-app indirilmelidir. Daha sonra root'ta create-next-app "x" proje oluşturulup içine girilmelidir.
 
-Proje içine girildikten sonra;
-CoinGecko API paketi --> npm install coingecko-api indirilmelidir.
-Web'te sayfanın düzgün çalışması için --> npm install bootstrap indirilmelidir.
+<br>Proje içine girildikten sonra;</br>
+<br>CoinGecko API paketi --> npm install coingecko-api indirilmelidir.</br>
+<br>Web'te sayfanın düzgün çalışması için --> npm install bootstrap indirilmelidir.</br>
 
 Geri kalan ise javascript üzerinde API'leri key'lere göre çağırmak. Kaynak kodlarda hepsi yalın bir şekilde gösterilmektedir.
 
