@@ -23,7 +23,7 @@ export default function Home(props) {
     <div className={styles.container}>
       <Head>
         <title>Anlık Kriptopara Fiyat Bilgileri</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/x45.ico" />
       </Head>
 
       <h1>Anlık Kriptopara Fiyat Bilgileri</h1>
